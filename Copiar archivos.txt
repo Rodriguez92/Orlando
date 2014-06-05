@@ -1,0 +1,1 @@
+ find / -type f -name "*.mp3" -exec cp -f {} /home/diego/Escritorio/musica_respaldo/ \;
